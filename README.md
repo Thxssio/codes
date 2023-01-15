@@ -1,2 +1,2 @@
 # codes
-Codigos e diversos projetos desenvolvidos por mim. @thxssio
+Codigos e diversos projetos desenvolvidos por mim. 'https://github.com/Thxssio'
